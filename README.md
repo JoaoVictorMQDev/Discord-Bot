@@ -1,2 +1,2 @@
 # Discord Bot
- Discord Bot criado em JavaScript.
+ Bot no Discord desenvolvido em JavaScript.
