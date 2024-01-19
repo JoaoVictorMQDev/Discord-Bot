@@ -1,3 +1,3 @@
-# Discord Bot
+# Bot do Cruzeiro
 
- Bot no Discord desenvolvido em JavaScript.
+ Bot do Cruzeiro no Discord desenvolvido totalmente em JavaScript.
